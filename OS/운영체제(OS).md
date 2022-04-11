@@ -143,9 +143,4 @@
         - 자원 할당 및 반환
         - 프로세스 간 협력
     - 보호 시스템, 네트워킹, 명령어해석기(Command line interpreter) 등
-     <br><br>
-      <br><br>
-    > 출처
-    > 
-    
-    KOCW : [이화여대 반효경 교수님](http://www.kocw.net/home/search/kemView.do?kemId=1046323) <운영체제,2014>
+
